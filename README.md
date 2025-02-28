@@ -1,6 +1,5 @@
-====================
-FortiEDR Scripts
-====================
+# FortiEDR Scripts
+---
 
 This repository contains two scripts for interacting with FortiEDR:
 - **List Events**: Retrieve events using different time filters.
