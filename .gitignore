@@ -1,14 +1,14 @@
-# Exclure les fichiers d'environnement contenant des informations sensibles
+# Exclude environment files containing sensitive information
 .env
 
-# Exclure les fichiers générés automatiquement
+# Exclude automatically generated files
 *.pyc
 __pycache__/
 *.log
 
-# Exclure les fichiers temporaires du système
+# Exclude temporary system files
 .DS_Store
 Thumbs.db
 
-# Exclure les fichiers de virtualenv
+# Exclude virtual environment files
 venv/
